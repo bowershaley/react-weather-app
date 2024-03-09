@@ -10,7 +10,8 @@ root.render(
     <h1>React Weather App</h1>
     <Weather />
     <footer>
-      This project was coded by Haley and is hosted on <a href="#">Github</a>.
+      This project was coded by Haley and is hosted on{" "}
+      <a href="https://github.com/bowershaley/react-weather-app">Github</a>.
     </footer>
   </React.StrictMode>
 );
